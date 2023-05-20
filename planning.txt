@@ -1,0 +1,54 @@
+Startdatum: 18/4/23
+Einddatum: 21/5/23
+
+Vakantie: Tijdens de vakantie zal ik me concentreren op het verbeteren van mijn programmeervaardigheden. Ik zal ook tijd besteden aan het maken van de ERD en wireframes.
+
+Week 1:
+
+Maandag (Md): Verbeteren programmeervaardigheden (html)
+Dinsdag (Dd): Verbeteren programmeervaardigheden (html)
+Woensdag (Wd): Verbeteren programmeervaardigheden (html)
+Donderdag (Dd): Verbeteren programmeervaardigheden Creëren van ERD en wireframes (html)
+Vrijdag (Vd): Verbeteren programmeervaardigheden (css)
+Zaterdag (Zd): Verbeteren programmeervaardigheden (css)
+Zondag (Zd): Verbeteren programmeervaardigheden (css)
+
+Week 2:
+
+Maandag (Md): Verbeteren programmeervaardigheden (php)
+Dinsdag (Dd): Verbeteren programmeervaardigheden (php)
+Woensdag (Wd): Verbeteren programmeervaardigheden (php)
+Donderdag (Dd): Verbeteren programmeervaardigheden (php)
+Vrijdag (Vd): homepage van de site maken (header en footer)
+Zaterdag (Zd): de homepage inrichten en de database maken en kopellen.
+Zondag (Zd): uitrusten
+
+
+
+
+
+
+
+
+
+
+
+Week 3:
+
+Maandag (Md): productpagina toevoegen waar producten worden weergegeven in een table.
+Dinsdag (Dd): toevoegen dynamische weergave van de productpagina
+Woensdag (Wd): Opzetten van filterfunctionaliteit voor de productpagina
+Donderdag (Dd): toevoegen inlogsysteem op de website.
+Vrijdag (Vd): toevoegen admin pagina en CRUD toevoegen voor producten.
+Zaterdag (Zd): toevoegen cart systeem en testen
+Zondag (Zd): toevoegen verlanglijstje en functies
+
+Week 4:
+
+Maandag (Md): uitrusten
+Dinsdag (Dd): uitrusten
+Woensdag (Wd): finishing touches met css
+Donderdag (Dd): site grondig testen
+Vrijdag (Vd): Voorbereiden op projectpresentatie
+Zaterdag (Zd): Voltooi het project docent github link gestuurd.
+Zondag (Zd): 
